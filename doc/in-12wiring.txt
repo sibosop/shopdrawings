@@ -1,0 +1,29 @@
+Board Socket
+1 - 1    14 - AN
+2 - 9  	 13 - 2
+3 - lhdp 12 - 7
+4 - nc   11 - 8
+5 - 4    10 - 3
+6 - 5     9 - rhdp
+7 - 0     8 - 6
+
+Ribbon cable
+1  - an
+2  - 1
+3  - 2
+4  - 9
+5  - 7
+6  - lhdp
+7  - 8
+8  - nc
+9  - 3
+10 - 4
+11 - rhdp
+12 - 5
+13 - 6
+14 - 0
+
+
+ribbon to in-12 socket
+1 11 10 3 5 nc 4 nc 9 8 1 7 6 2
+
